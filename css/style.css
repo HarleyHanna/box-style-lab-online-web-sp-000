@@ -46,6 +46,8 @@ h4.indifferent{
 }
 
 .dubious {
+  border: 1px solid #641102;
+  box-shadow:  -1px 1px #641102, -2px 2px #641102, -3px 3px #641102, -4px 4px #641102, -5px 5px #641102;
   background-color: #dd4444;
 }
 
