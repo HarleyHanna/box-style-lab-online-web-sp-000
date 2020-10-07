@@ -36,9 +36,9 @@ h4 .amiable {
 }
 
 .indifferent {
-  background-color: 1px solid #91aa22;
+  background-color: 
   box-shadow: -1px 1px #91aa22, -2px 2px #91aa22, -3px 3px #91aa22, -4px 4px #91aa22, -5px 5px #91aa22;
-  
+  border: ;
 }
 
 .dubious {
