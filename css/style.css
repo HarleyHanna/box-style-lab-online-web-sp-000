@@ -77,7 +77,7 @@ img{
   box-sizing: border-box;
   width: 1px;
   border: solid;
-  
+  border-color: gray;
 }
 
 
